@@ -1,6 +1,6 @@
-# Aristotles Puzzle Solver
- Highly optimized C++ implementation designed to solve Aristotle's Puzzle efficiently. 
 # Aristotle's Puzzle Solver
+ Highly optimized C++ implementation designed to solve Aristotle's Puzzle efficiently. 
+
 
 ## Table of Contents
 - [Introduction](#introduction)
