@@ -14,6 +14,7 @@
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
+- [Gif of program running](#gif-of-program-running)
 
 ## Introduction
 
@@ -44,8 +45,6 @@ The initial Python implementation, while functional, took several hours to find 
 - **Algorithmic improvements**: Optimizing the backtracking algorithm and pruning unnecessary branches early.
 - **Using best data types**: Home-made linkedList for quick access and storage to the first index, and vectors for where indexing was more important.
 - **State Exploration**: Systematically explores potential states using a depth-first search (DFS) approach and prunes mathematically impossible branches.
-![gif](https://github.com/FelixCenusa/Aristotles-Puzzle-Solver/blob/main/asssets/gif/480p2xAristotlesGif.gif)
-
 
 ### Time Complexity
 
@@ -84,3 +83,6 @@ Contributions are welcome! If you have ideas for improvements, feel free to fork
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Gif Of Program Running
+- ![gif](https://github.com/FelixCenusa/Aristotles-Puzzle-Solver/blob/main/asssets/gif/480p2xAristotlesGif.gif)
