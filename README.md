@@ -1,6 +1,7 @@
 # Aristotle's Puzzle Solver
  Highly optimized C++ implementation designed to solve Aristotle's Puzzle efficiently. 
 
+![image](https://github.com/FelixCenusa/Aristotles-Puzzle-Solver/assets/img/AristotlesPuzzleAndMath.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
