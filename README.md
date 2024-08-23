@@ -22,7 +22,7 @@ Welcome to the Aristotle's Puzzle Solver project! This is a highly optimized C++
 
 ## Project Overview
 
-Aristotle's Puzzle is a classic mathematical problem that involves arranging objects according to specific rules. The solver implemented here is designed to find all possible solutions to the puzzle in a minimal amount of time. 
+Aristotle's Puzzle is a classic mathematical problem that involves arranging objects in such a way so that every diagonal sums up to 38. There are a total of 15 diagonals, 5 in each of the three angles you can look at the puzzle. The solver implemented here is designed to find the solution to the puzzle in a minimal amount of time. 
 
 This project originally started as a Python script, but due to the high computational complexity, it was later rewritten in C++ to achieve significant performance improvements.
 
